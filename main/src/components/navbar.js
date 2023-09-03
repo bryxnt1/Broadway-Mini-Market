@@ -1,7 +1,7 @@
 import React from 'react'
-import Logo from '../assets/raect85.png'
+import Logo from '../assets/Logo.PNG'
 
- function navbar() {
+ function Navbar() {
   return (
     <div className='navbar'>
       <div className='leftSide'>
