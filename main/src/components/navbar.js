@@ -1,12 +1,17 @@
 import React from 'react'
-import
+import Logo from '../assets/raect85.png'
 
-export default function navbar() {
+ function navbar() {
   return (
     <div className='navbar'>
-      <div className='leftSide'></div>
-      <img src={} />
-      <div className='rightSide'></div>
+      <div className='leftSide'>
+       <img src={Logo} />
+      </div>
+      
+      <div className='rightSide'>
+      </div>
     </div>
   );
 }
+
+export default Navbar;
