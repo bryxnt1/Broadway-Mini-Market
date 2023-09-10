@@ -1,12 +1,12 @@
 import React from 'react'
- 
 
 function Home() {
   return (
     <div>
-      Hello World
+      hola world
     </div>
   )
 }
 
 export default Home
+
