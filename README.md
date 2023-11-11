@@ -1,2 +1,2 @@
-# Broadway-Mini-Market
-Free lance work for a local business
+
+Free lance work For a Community of gamers to join and meet new people.
